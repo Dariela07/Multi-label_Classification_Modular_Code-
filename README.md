@@ -1,4 +1,4 @@
-This project develops an email classifier that categorizes emails into multiple classes simultaneously, with modular preprocessing to easily add new data or ML models. It employs TF-IDF embedding and includes various preprocessing steps such as deduplication and noise removal. 
+This project develops an email classifier that categorizes emails into multiple classes simultaneously, using modular preprocessing for easy integration of new data or ML models. It employs TF-IDF embedding and includes preprocessing steps like deduplication and noise removal. 
 
 
 A Chained Multi-Output methodology is implemented using a Deep Neural Network (DNN). The model is designed to solve the multi-label classification problem which predicts email categories for three types simultaneously for each email. The TensorFlow Keras API is used. Given a small dataset, only two dense layers with Relu activation and L2 regularization are used in the hidden layers to avoid overfitting, combined with Dropout and BatchNormalization layers. 

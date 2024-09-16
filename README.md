@@ -12,5 +12,5 @@ The model accuracy is then evaluated using a chained multi-output approach, wher
 
 
 
-<img src="https://github.com/user-attachments/assets/3ddf9957-d4b2-4c49-8813-11e13fb92592" />
+<img src="https://github.com/user-attachments/assets/3ddf9957-d4b2-4c49-8813-11e13fb92592"  width="900" />
 

@@ -9,7 +9,6 @@ The output layer is a dense layer with units equal to the number of email catego
 
 The model accuracy is then evaluated using a chained multi-output approach, where the accuracy in a latter Type is dependent on the previous type; it is only accounted for if the previous type is correct. An example output is shown below, with a testing accuracy of 74.47% and training accuracy of 91.7%. To improve the model's performance, more samples are required.
 
-
-<img src="https://github.com/user-attachments/assets/3ddf9957-d4b2-4c49-8813-11e13fb92592" width="400" />
-
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3ddf9957-d4b2-4c49-8813-11e13fb92592" width="700" />
+</div>

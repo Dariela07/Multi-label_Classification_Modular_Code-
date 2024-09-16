@@ -1,4 +1,6 @@
 # Multi-label Classification Project Overview
+
+<div style="text-align: justify;">
 This project develops an email classifier that categorizes emails into multiple classes simultaneously, using modular preprocessing for easy integration of new data or ML models. It employs TF-IDF embedding and includes preprocessing steps like deduplication and noise removal. 
 
 
@@ -9,6 +11,7 @@ The output layer is a dense layer with units equal to the number of email catego
 
 
 The model accuracy is then evaluated using a chained multi-output approach, where the accuracy in a latter Type is dependent on the previous type; it is only accounted for if the previous type is correct. An example output is shown below, with a testing accuracy of 74.47% and training accuracy of 91.7%. To improve the model's performance, more samples are required.
+</div>
 
 
 <div align="center">

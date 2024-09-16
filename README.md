@@ -1,3 +1,4 @@
+# Multi-label Classification Project Overview
 This project develops an email classifier that categorizes emails into multiple classes simultaneously, using modular preprocessing for easy integration of new data or ML models. It employs TF-IDF embedding and includes preprocessing steps like deduplication and noise removal. 
 
 
